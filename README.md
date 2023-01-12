@@ -11,3 +11,10 @@ This project is a Work Day Scheduler, making it easier and faster to create and 
 
 ![gif of app](/assets/Untitled_%20Jan%2012%2C%202023%201_30%20AM.gif)
 
+Visit https://marquisegordon.github.io/Work-Day-Scheduler/ to view and use the web application.
+
+## Contact Info
+
+- GitHub: https://github.com/marquisegordon
+
+- Email: shailomg@gmail.com
